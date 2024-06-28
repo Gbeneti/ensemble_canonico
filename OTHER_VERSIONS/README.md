@@ -1,6 +1,8 @@
-# Ensemble Canonico
+# OTHER_VERSIONS
 
 This folder contains older/outdated versions of the main file.
+
+"ensemble_canonico.ipynb" is my first implementation of the Canonical Ensemble.
 
 "ensemble_canonico_v2_not_updated.ipynb" is an alternative method to achieve the same as the main file. The main purpose was to make the code even more efficient. It is now out of date.
 

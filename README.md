@@ -1,13 +1,12 @@
 # Canonical Ensemble
 Code that simulates a lattice-ensemble model. The code was based on an older version from João Caramês and an implementation from João Aroucha, both located in "OTHER_VERSIONS".
 
-The  file "ensemble_canonico_mistura.ipynb" is an optimized/revised/repurposed version of "ensemmble_canonico". Its objective is to investigate how the energy between interactions and concentrations of two liquids can influnce mixture capabilites in the context of the canonical ensemble. The code is also capable of handling different temperatures in the Helmholtz function.
+The  file "CE_MF_mixture.ipynb" is an optimized/revised/repurposed version of "ensemmble_canonico.ipynb" found in the "OTHER_VERSIONS" folder. Its objective is to investigate how the energy between interactions and concentrations of two liquids can influnce mixture capabilites in the context of the canonical ensemble and mean field. The code is also capable of handling different temperatures in the Helmholtz function.
 
-The file "ensemble_canonico_mistura.py" is the .py implementation of "ensemble_canonico_mistura.ipynb."
+The file "CE_MF_mixture.py" is a ".py" implementation of "CE_MF_mixture.ipynb".
 
-The file "ensemble_canonico.ipynb" is the first implementation of only the canonical ensemble used in "ensemble_canonico_mistura.ipynb" and "ensemble_canonico_mistura.py"
+The file "multithread_CE_MF_mixture.ipynb" is a ".ipynb" implementation of the Canonical Emsemble and Mean Field using multithreading.
 
-"ensemble_canonico.png" is the plot/result of Helmholtz Free Energy x Concentration in various temperatures using the canonical ensemble model. The objective is to analyze phase transitions.
+The file "multithread_CE_MF_mixture.py" is a ".py" implementation of the Canonical Emsemble and Mean Field using multithreading.
 
-"mean_field.png" is the plot/result of Helmholtz Free Energy x Concentration in various temperatures using the mean field approximation. The objective is to analyze phase transitions.
-
+The "imgs" folder stores the graph results of the Canonical Ensemble and the Mean Field.
